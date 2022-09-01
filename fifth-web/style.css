@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 650px;
+    margin: 0 auto;
+    background-color: #ffff;
+}
+h1{
+    height: 100px;
+    width: 100%;
+    background-color: aquamarine; 
+    color: rgb(93, 2, 2);
+    font-size: 2.5rem;
+    padding: 1.8rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sticky{
+    padding: 1rem 0;
+    background-color: rgb(255, 255, 255);  
+    position: sticky;
+    top: 0;
+}
+.sticky a{
+    text-decoration: none;
+    padding:0 0 0 100px;
+    text-transform: uppercase;
+    color: rgb(17, 3, 74);
+
+}
+h2{
+    padding: 2rem;
+}
