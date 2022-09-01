@@ -34,3 +34,9 @@ h1{
 h2{
     padding: 2rem;
 }
+p{
+    padding: 1.5rem;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    
+}
